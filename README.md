@@ -1,6 +1,8 @@
 # alfred-bitly-shortener
 Alfred App Workflow to shorten bit.ly links easily
 
+![screen shot](http://techcraver.com/wp-content/uploads/2015/10/Alfred-bitly-workflow.png)
+
 To add this into your Alfred App set up for your Mac (this assumes you already have Alfred installed and running):
 
 * Follow the prompts to install the Workflow
